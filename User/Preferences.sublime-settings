@@ -1,0 +1,26 @@
+{
+	"color_scheme": "Packages/Theme - Nil/Tubnil.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Pretty JSON"
+	],
+	"perltidy_cmd":
+	[
+		"D:\\Perl\\perl\\bin\\perl.exe",
+		"D:\\Perl\\perl\\site\\bin\\perltidy"
+	],
+	"perltidy_options":
+	[
+		"-sbl",
+		"-bbt=1",
+		"-pt=2",
+		"-nbbc",
+		"-l=200",
+		"-ole=unix",
+		"-w",
+		"-se"
+	],
+	"theme": "Nil.sublime-theme",
+	"detect_slow_plugins": false
+}
