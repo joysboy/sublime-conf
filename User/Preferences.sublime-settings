@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Theme - Nil/Tubnil.tmTheme",
+	"detect_slow_plugins": false,
 	"font_size": 14,
 	"ignored_packages":
 	[
@@ -21,6 +22,5 @@
 		"-w",
 		"-se"
 	],
-	"theme": "Nil.sublime-theme",
-	"detect_slow_plugins": false
+	"theme": "Nil.sublime-theme"
 }

@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/env perl
+#######################################################
+#
+#  Alipay.com Inc.
+#  Copyright (c) 2004-2013 All Rights Reserved.
+#
+#  Author: yangxufeng.zhao
+#  Version : 0.0.1
+#  Date: 2013.09.07
+#
+#  Function: 
+#
+#  History:
+#      yangxufeng.zhao    2013.09.07     0.0.1     add init 
+#
+###########################################################
+]]></content>
+    <tabTrigger>head</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Head Annotation</description>
+</snippet>
