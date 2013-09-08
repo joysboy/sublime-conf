@@ -1,10 +1,13 @@
 {
-	"color_scheme": "Packages/Theme - Nil/Tubnil.tmTheme",
+	"color_scheme": "Packages/Base16 Color Schemes/base16-pop.dark.tmTheme",
 	"detect_slow_plugins": false,
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Pretty JSON"
+		"MarkdownEditing",
+		"Pretty JSON",
+		"SublimePythonTidy",
+		"HtmlTidy"
 	],
 	"perltidy_cmd":
 	[
