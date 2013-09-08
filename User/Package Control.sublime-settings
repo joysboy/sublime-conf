@@ -1,0 +1,35 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CTags",
+		"Git",
+		"HtmlTidy",
+		"Local History",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Perv - Color Scheme",
+		"PlainTasks",
+		"Pretty JSON",
+		"Print to HTML",
+		"Python PEP8 Autoformat",
+		"Sublime Text 2 Snippets",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimePerlTidy",
+		"SublimeREPL",
+		"Sublimerge",
+		"SVN",
+		"Tag",
+		"Theme - Flatland",
+		"Theme - Nexus",
+		"Theme - Nil",
+		"Tortoise"
+	]
+}

@@ -1,0 +1,10 @@
+{
+    "Perl": {
+        "perl": "D:\\Perl\\perl\\bin\\perl.exe",
+        "perlExtraPaths": []
+    },
+    "Python": {
+        "python": "D:\\Python27\\python.exe",
+        "pythonExtraPaths": []
+    }
+}
