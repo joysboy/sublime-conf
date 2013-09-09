@@ -1,42 +1,63 @@
 {
-    "color_scheme": "Packages/Base16 Color Schemes/base16-pop.dark.tmTheme",
-    "detect_slow_plugins": false,
-    "font_size": 14,
-    "ignored_packages":
-    [
-        "MarkdownEditing",
-        "SublimeREPL",
-        "SublimePythonTidy",
-        "HtmlTidy",
-        "PlainTasks",
-        "Sublime Text 2 Snippets"
-    ],
-    "perltidy_cmd":
-    [
-        "D:\\Perl\\perl\\bin\\perl.exe",
-        "D:\\Perl\\perl\\site\\bin\\perltidy"
-    ],
-    "perltidy_options":
-    [
-        "-sbl",
-        "-bbt=1",
-        "-pt=2",
-        "-nbbc",
-        "-l=200",
-        "-ole=unix",
-        "-w",
-        "-se"
-    ],
-    "theme": "Nil.sublime-theme",
-    "todo":
-    {
-        "file_exclude_patterns":[
-            "*.css", "*.po", "*.mo"
-        ],
-        "folder_exclude_patterns": [
-            "static", "vendor", "tmp", "log"
-        ],
-        "case_sensitive": true,
-        "result_title": "TODO Results"
-    }
+	"color_scheme": "Packages/Base16 Color Schemes/base16-pop.dark.tmTheme",
+	"detect_slow_plugins": false,
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"MarkdownEditing",
+		"SublimeREPL",
+		"SublimePythonTidy",
+		"HtmlTidy",
+		"PlainTasks",
+		"Sublime Text 2 Snippets"
+	],
+	"perltidy_cmd":
+	[
+		"D:\\Perl\\perl\\bin\\perl.exe",
+		"D:\\Perl\\perl\\site\\bin\\perltidy"
+	],
+	"perltidy_options":
+	[
+		"-sbl",
+		"-bbt=1",
+		"-pt=2",
+		"-nbbc",
+		"-l=200",
+		"-ole=unix",
+		"-w",
+		"-se"
+	],
+	"theme": "Nil.sublime-theme",
+	"todo":
+	{
+		"case_sensitive": true,
+		"file_exclude_patterns":
+		[
+			"*.css",
+			"*.js",
+			"*.json",
+			"*.po",
+			"*.pot",
+			"*.mo",
+			"*.log",
+			"*.log.*",
+			"*.txt",
+			"*.php",
+			"*.html",
+			"*.htm",
+			"*.xml",
+			"*.bak",
+			"*.ini"
+		],
+		"folder_exclude_patterns":
+		[
+			"static",
+			"vendor",
+			"tmp",
+			"log",
+			"logs",
+			"node_modules"
+		],
+		"result_title": "TODO Results"
+	}
 }
